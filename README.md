@@ -1,7 +1,7 @@
 # AI Robotics Lab 2025 Hands-on
 
 ## About
-This is the repository of hands-on practice in NCKU-Kagawa College AI Robotics Lab in 2025.
+This repository contains hands-on practice materials for NCKU-Kagawa College AI Robotics Lab in 2025.
 
 ## Topics
 - 9/11
