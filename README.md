@@ -4,21 +4,29 @@
 This repository contains hands-on practice materials for NCKU-Kagawa College AI Robotics Lab in 2025.
 
 ## Topics
-- 9/11
-- 9/18
-- 9/25
-- 10/2
-- 10/9
-- 10/16
-- 10/23
-- 10/30
-- 11/6
-- 11/13
-- 11/20
-- 11/27 No lecture
-- 12/4
-- 12/11
-- 12/18
-- 12/25 No lecture
-- 1/1 No lecture
-- 1/8
+- 9/10
+  - Introduction to the joint course
+  - Team up   
+- 9/17
+  - Introduction to JetBot
+  - Setup JetBot [[instruction]](https://github.com/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week02_Jetbot_Software_Setup.md) [[video]](https://youtu.be/Si-kh8yqQHo)
+  - Check JetBot hardware [[video]](https://youtu.be/77WQfj6HOIg)
+  - If you find any problems in your JetBot, please report them to the instructors by 9/24.
+- 9/24
+  - Team introduction, Introduction to AI and deep learning, Introduction to PyTorch.
+- 10/1
+  - Deep learning with PyTorch, Simple deep neural network with Iris dataset 
+- 10/8
+- 10/15
+- 10/22
+- 10/29
+- 11/5
+- 11/12
+- 11/19
+- 11/26 No lecture
+- 12/3
+- 12/10
+- 12/17
+- 12/24 No lecture
+- 12/31 No lecture
+- 1/7 
