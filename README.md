@@ -16,9 +16,10 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Team introduction
   - Introduction to AI and deep learning
   - Introduction to PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week03_Introduction_to_PyTorch.ipynb)
-  - Simple_SGD_Example _with_PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week03_Simple_SGD_Example__with_PyTorch.ipynb)
+  - Simple SGD example with PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week03_Simple_SGD_Example__with_PyTorch.ipynb)
 - 10/1
-  - Deep learning with PyTorch, Simple deep neural network with Iris dataset 
+  - Deep learning with PyTorch
+  - Simple deep neural network with the Iris dataset 
 - 10/8
 - 10/15
 - 10/22
