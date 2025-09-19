@@ -13,7 +13,10 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Check JetBot hardware [[video]](https://youtu.be/77WQfj6HOIg)
   - If you find any problems in your JetBot, please report them to the instructors by 9/24.
 - 9/24
-  - Team introduction, Introduction to AI and deep learning, Introduction to PyTorch.
+  - Team introduction
+  - Introduction to AI and deep learning
+  - Introduction to PyTorch. [Colab]()
+  - Simple_SGD_Example _with_PyTorch [Colab]()
 - 10/1
   - Deep learning with PyTorch, Simple deep neural network with Iris dataset 
 - 10/8
