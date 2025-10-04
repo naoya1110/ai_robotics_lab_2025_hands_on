@@ -21,6 +21,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Deep learning with PyTorch
   - Simple deep neural network with the Iris dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week04_Simple_MLP_Model_with_the_Iris_Dataset.ipynb)
 - 10/8
+  - Convolutional Neural Network and CIFAR10 Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week05_Convolutional_Neural_Network_and_CIFAR10_Dataset.ipynb) 
 - 10/15
 - 10/22
 - 10/29
