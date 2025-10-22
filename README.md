@@ -26,6 +26,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Practical Techniques for Training CNN Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week06_Practical_Techniques_for_Training_CNN_Models.ipynb)
   - Image Classification Competition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week06_Image_Classification_Competition.ipynb)
 - 10/22
+  - Transfer Learning  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week07_Transfer_Learning.ipynb)
 - 10/29
 - 11/5
 - 11/12
