@@ -28,7 +28,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 - 10/22
   - Transfer Learning  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/Week07_Transfer_Learning.ipynb)
 - 10/29
-  - - Introduction to JetBot (Recap)
+  - Introduction to JetBot (Recap)
   - Collision Avoidance Tutorial [[original github repo]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE)
   - Remove Broken Image Data [[code]](https://github.com/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/remove_bloken_img_data.md)
 - 11/5
