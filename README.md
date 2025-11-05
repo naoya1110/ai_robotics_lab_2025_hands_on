@@ -32,6 +32,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Collision Avoidance Tutorial [[original github repo]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance) [[video]](https://youtu.be/LzrU6e_S4yE)
   - Remove Broken Image Data [[code]](https://github.com/naoya1110/ai_robotics_lab_2025_hands_on/blob/main/remove_bloken_img_data.md)
 - 11/5
+  - Noodles Cup - Final Results Announcement [Ground Truth Labels](https://drive.google.com/file/d/11qZNEmOhYMrJReDJBbiReARRufDMtxxZ/view?usp=sharing) 
 - 11/12 No lecture
 - 11/19
 - 11/26 No lecture
