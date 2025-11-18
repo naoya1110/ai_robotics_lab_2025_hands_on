@@ -43,7 +43,10 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Preprocessing of the road racing video [[video]](https://youtu.be/txKasQSx_G8) 
   - JetBot road racing competition launch 
 - 12/10
+  - Check point of final project 
 - 12/17
+  - JetBot road racing competition final result announcement
 - 12/24
 - 12/31 No lecture
-- 1/7 
+- 1/7
+  - Final project presentation   
