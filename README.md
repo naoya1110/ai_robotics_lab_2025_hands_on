@@ -36,8 +36,12 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
   - Road Following by Classification Model [[github repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
 - 11/12 No lecture
 - 11/19
+  -　Technical presentation of the image classification competition 
 - 11/26 No lecture
 - 12/3
+  - Road following by a regression model [[github repo]](https://github.com/naoya1110/road_following_by_regression) [[video]](https://youtu.be/96u4DM-cjkE)
+  - Preprocessing of the road racing video
+  - JetBot road racing competition launch
 - 12/10
 - 12/17
 - 12/24
