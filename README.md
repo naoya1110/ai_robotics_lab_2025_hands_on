@@ -47,6 +47,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 - 12/17
   - JetBot road racing competition final result announcement
 - 12/24
+  -　Technical Presentation of JetBot Road Racing Competition 
 - 12/31 No lecture
 - 1/7
   - Final project presentation   
